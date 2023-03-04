@@ -8,7 +8,7 @@
   <a href="mailto:j_jongleur@naver.com" target="_blank"><img src="https://img.shields.io/badge/j_jongleur@naver.com-BA84E9?style=flat-square&logo=Mail.Ru&logoColor=white"/></a>
   <a href="https://www.instagram.com/u_jewel_/" target="_blank"><img src="https://img.shields.io/badge/u_jewel_-FFEA94?style=flat-square&logo=Instagram&logoColor=black"/></a>
   <br/><br/>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23BFBEDD&title_bg=%23898989&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjongleur6596&count_bg=%23BFBEDD&title_bg=%23898989&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   <br/>
 </p>
 
