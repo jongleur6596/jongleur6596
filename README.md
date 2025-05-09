@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shrikhand&size=25&pause=2000&color=B696EB&center=true&vCenter=true&width=438&height=25&lines=Hi+there!+I'm+Yujin%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
   <h4 align="center">
-    I'm a creative <strong style="background-color: rgb(50, 50, 50);">frontend developer</strong> from 🇰🇷 😎🖤
+    I'm a creative <strong style="background-color: rgb(50, 50, 50);">developer</strong> from 🇰🇷 😎🖤
   </h4>
   <a href="mailto:j_jongleur@naver.com" target="_blank"><img src="https://img.shields.io/badge/j_jongleur@naver.com-BA84E9?style=flat-square&logo=Mail.Ru&logoColor=white"/></a>
   <a href="https://www.instagram.com/u_jewel_/" target="_blank"><img src="https://img.shields.io/badge/u_jewel_-FFEA94?style=flat-square&logo=Instagram&logoColor=black"/></a>
